@@ -1,5 +1,9 @@
 # Write your #display_rainbow method here
-def display_rainbow
-  puts "Name: #{person[0]}, Age: #{person[1]}, Occupation: #{person[2]}"
-  
-end
+def display_rainbow(colors)
+colors(1)
+
+
+
+
+
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
